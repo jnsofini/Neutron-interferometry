@@ -1,3 +1,26 @@
+###Home Work Solution:
+
+The .R file accompanying this is the program written to solve the proplem below.
+It uses the same approach as the one for a vector to implement a matrix inversion method.
+
+It  has a function 'makeCacheMatrix' which create a matrix object with the following methods
+
+
+1.  set the value of the vector
+2.  get the value of the vector
+3.  set the value of the mean
+4.  get the value of the mean
+
+It the uses `cacheSolve` function function computes the inverse of the special
+ matrix object returned by `makeCacheMatrix` above. If the inverse has
+already been calculated (and the matrix has not changed), then
+ `cacheSolve` should retrieve the inverse from the cache.
+
+
+Below is the problem
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
