@@ -1,5 +1,5 @@
 (* Content-type: application/vnd.wolfram.mathematica *)
-
+# Program to simulated contrast loss
 (*** Wolfram Notebook File ***)
 (* http://www.wolfram.com/nb *)
 
