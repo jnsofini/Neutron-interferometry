@@ -12,9 +12,8 @@ This repository contains some projects on neutron interferometry. Neutron interf
 
 Much development has lead to the discovery of subspaces encoded in a neutron interferometer in which information is shielded from vibrational noise, commonly referred to as decoherence-free subspace. Some of these work can be found in this [arXiv article](https://arxiv.org/pdf/1704.03589.pdf) and references therein. Another interesting work is that of controlling the  `spin-orbit` of a neutron wavepacket. These advancement has led to research progress with potential to probe properties of materials, including skyrmions. 
 
-Below is a cartoon of the propagation of a wave through a neutron interferometer.
+Below is a cartoon of the propagation of a wave through a neutron interferometer.[Animation of NI](https://vimeo.com/82315901). The signal is chacterized by the value of the contrast. The contrast is defined by the normalized intensity (Imax-Imin)/(Imax+Imin). Below is s typical figure.
 
-[![Animation of NI](https://vimeo.com/82315901)]
 
 ## Project folder
 In these folders are programmed to simulate the propagation of a wave via a neutron interferometer. The wave is modelled in a similar to a quantum walk. An incident wave propagates through a lattice and spreads into a multi-ray limited only by the spatial coherence of the neutron wavepacket.
